@@ -11,14 +11,16 @@ Frameworks y Bibliotecas: Utilizo React.js para el desarrollo de interfaces de u
 Bases de Datos: Utilizo PostgreSQL como base de datos relacional y Sequelize como ORM para interactuar con ella.
 Control de Versiones: Soy experto en el uso de Git y plataformas de alojamiento como GitHub para gestionar el código de manera efectiva.
 Otros: Tengo sólidos conocimientos en HTML y CSS para el desarrollo del frontend y la creación de interfaces de usuario atractivas y responsivas.
+
 💼 Experiencia Profesional
 Desarrollador Full Stack en [Nombre de la Empresa]: Trabajé en el desarrollo y mantenimiento de sistemas backend para aplicaciones web complejas.
 [Otro Cargo o Proyecto]: Descripción breve de otra experiencia relevante, si aplica.
+
 🌐 ¿Dónde Encontrarme?
 ¡Puedes encontrarme en diferentes plataformas! Aquí tienes algunas formas de contactarme:
 
-LinkedIn: Mi perfil de LinkedIn
+LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/dev-santiagopaz/)
 Correo Electrónico: santipaz19.02@gmail.com
-Página Web: Mi Portafolio
+Página Web: [Mi Portafolio](https://portfolio-santipaz19.vercel.app/)
 📫 Contacto
 ¡Si tienes alguna pregunta sobre mi trabajo o estás interesado en colaborar en proyectos emocionantes, no dudes en contactarme!
