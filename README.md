@@ -1,35 +1,23 @@
-Hola! Mi nombre es Santiago Paz
+¡Hola! Soy Santiago Paz
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador Full Stack con un enfoque especial en el desarrollo del backend y la creación de sistemas robustos y escalables.
 
-¿Quién soy?
-Soy un Programador Fullstack orientado al diseño Front-end y creación de material visual.
+ℹ️ Acerca de mí
+Desde que me introduje en el mundo de la programación, he centrado mis esfuerzos en convertirme en un experto en el desarrollo del lado del servidor. Mi pasión por resolver problemas complejos y mi capacidad para diseñar arquitecturas eficientes me han llevado a destacar en proyectos exigentes y desafiantes.
 
-Desde que tengo 12 años me ha interesado el mundo de la programación. Mi primer Lenguaje fue Python. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
+🧰 Tecnologías y Herramientas
+Lenguajes de Programación: JavaScript (Node.js)
+Frameworks y Bibliotecas: Utilizo React.js para el desarrollo de interfaces de usuario dinámicas y atractivas, y Express.js para crear servidores web y APIs RESTful.
+Bases de Datos: Utilizo PostgreSQL como base de datos relacional y Sequelize como ORM para interactuar con ella.
+Control de Versiones: Soy experto en el uso de Git y plataformas de alojamiento como GitHub para gestionar el código de manera efectiva.
+Otros: Tengo sólidos conocimientos en HTML y CSS para el desarrollo del frontend y la creación de interfaces de usuario atractivas y responsivas.
+💼 Experiencia Profesional
+Desarrollador Full Stack en [Nombre de la Empresa]: Trabajé en el desarrollo y mantenimiento de sistemas backend para aplicaciones web complejas.
+[Otro Cargo o Proyecto]: Descripción breve de otra experiencia relevante, si aplica.
+🌐 ¿Dónde Encontrarme?
+¡Puedes encontrarme en diferentes plataformas! Aquí tienes algunas formas de contactarme:
 
-¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Me fascina poder encontrar la solución a los problemas de la vida con código
-
-¿A dónde me dirijo?
-Mi objetivo principal es impactar el mundo con código 🎆
-
-No solo disfruto de la programacion por la cantidad de demanda que hay en el mercado. Sino que realmente me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que creíamos ya resueltos.
-
-¿Qué tecnologías uso?
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
-
-Javascript
-React.js
-Node.js
-Express.js
-PostgreSQL
-Sequelize
-GIT
-Claramente incluyendo HTML y CSS
-
-Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator y Figma para el diseño visual de material
-
-No dudes en contactarme!
-Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
-
-Linkedin
-
-Correo: cesaryannickfullstack@gmail.com
+LinkedIn: Mi perfil de LinkedIn
+Correo Electrónico: santipaz19.02@gmail.com
+Página Web: Mi Portafolio
+📫 Contacto
+¡Si tienes alguna pregunta sobre mi trabajo o estás interesado en colaborar en proyectos emocionantes, no dudes en contactarme!
