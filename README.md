@@ -1,16 +1,28 @@
 🚀¡Hola! Soy Santiago Paz
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador Full Stack con un enfoque especial en el desarrollo del backend y la creación de sistemas robustos y escalables.
+🤖¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador Full Stack con un enfoque especial en el desarrollo del backend y la creación de sistemas robustos y escalables.
 
 ℹ️ Acerca de mí
-Desde que me introduje en el mundo de la programación, he centrado mis esfuerzos en convertirme en un experto en el desarrollo del lado del servidor. Mi pasión por resolver problemas complejos y mi capacidad para diseñar arquitecturas eficientes me han llevado a destacar en proyectos exigentes y desafiantes.
+Mi viaje como desarrolador empezo con cursos certificados de google, di mis primeros pasos en FreeCodeCamp y termine soyHenry donde decidi poder consolidar todos los conocimientos para poder destacarme como un desarrolador Full Stack competente. Asi mismo tambien decidi continuar mi camino de manera autodidacta siempre tratando de aprender, explorando nuevas tecnologías y ampliando mis habilidades IT.
 
 🧰 Tecnologías y Herramientas
-Lenguajes de Programación: JavaScript (Node.js)
-Frameworks y Bibliotecas: Utilizo React.js para el desarrollo de interfaces de usuario dinámicas y atractivas, y Express.js para crear servidores web y APIs RESTful.
-Bases de Datos: Utilizo PostgreSQL como base de datos relacional y Sequelize como ORM para interactuar con ella.
-Control de Versiones: Soy experto en el uso de Git y plataformas de alojamiento como GitHub para gestionar el código de manera efectiva.
-Otros: Tengo sólidos conocimientos en HTML y CSS para el desarrollo del frontend y la creación de interfaces de usuario atractivas y responsivas.
+JavaScript 
+
+C#
+
+React.js
+
+Node.js
+
+Express.js
+
+PostgreSQL
+
+Sequelize
+
+GIT
+
+HTML CSS
 
 💼 Experiencia Profesional
 Desarrollador Full Stack en [Nombre de la Empresa]: Trabajé en el desarrollo y mantenimiento de sistemas backend para aplicaciones web complejas.
